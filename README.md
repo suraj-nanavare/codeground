@@ -1,2 +1,2 @@
 # codeground
-## Codeground for wonderful stuff
+Codeground for wonderful stuff
